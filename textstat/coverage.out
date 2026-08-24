@@ -1,8 +1,8 @@
-mode: set
-github.com/Violet-Lemon/hexlet-go-testing/textstat/textstat.go:9.41,10.29 1 1
-github.com/Violet-Lemon/hexlet-go-testing/textstat/textstat.go:10.29,10.83 1 1
-github.com/Violet-Lemon/hexlet-go-testing/textstat/textstat.go:11.2,13.27 3 1
-github.com/Violet-Lemon/hexlet-go-testing/textstat/textstat.go:13.27,15.14 2 1
+mode: atomic
+github.com/Violet-Lemon/hexlet-go-testing/textstat/textstat.go:9.41,10.29 1 5
+github.com/Violet-Lemon/hexlet-go-testing/textstat/textstat.go:10.29,10.83 1 96
+github.com/Violet-Lemon/hexlet-go-testing/textstat/textstat.go:11.2,13.27 3 5
+github.com/Violet-Lemon/hexlet-go-testing/textstat/textstat.go:13.27,15.14 2 15
 github.com/Violet-Lemon/hexlet-go-testing/textstat/textstat.go:15.14,16.12 1 0
-github.com/Violet-Lemon/hexlet-go-testing/textstat/textstat.go:18.3,18.12 1 1
-github.com/Violet-Lemon/hexlet-go-testing/textstat/textstat.go:20.2,20.13 1 1
+github.com/Violet-Lemon/hexlet-go-testing/textstat/textstat.go:18.3,18.12 1 15
+github.com/Violet-Lemon/hexlet-go-testing/textstat/textstat.go:20.2,20.13 1 5
